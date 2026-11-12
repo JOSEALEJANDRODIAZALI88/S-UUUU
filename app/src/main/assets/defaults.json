@@ -1,0 +1,95 @@
+{
+  "perfil": {
+    "nombre": "LUZ GABRIELA CASTAÑETA TARQUINO",
+    "nacionalidad": "BOLIVIA",
+    "sede": "LA PAZ",
+    "carrera": "ING. BIOMEDICA",
+    "apoderado": "JUAN CARLOS",
+    "genero": "FEMENINO",
+    "nacimiento": "2/11/2005",
+    "correo": "ctl2033013@est.univalle.edu",
+    "pais": "BOLIVIA",
+    "lector": true,
+    "foto": "",
+    "qrImagen": "",
+    "qrTexto": "SIU-LOCAL:2033013",
+    "celular": "",
+    "correoPersonal": ""
+  },
+  "ajustes": {"tema": "Oscuro", "resumen": true, "cuadricula": false},
+  "materias": [
+    {"nombre": "BIOLOGÍA CELULAR Y MOLECULAR", "grupo": "B2", "docente": "PIZA PAZ CLAUDIA", "parcial1": "87,0", "parcial2": "0,0", "parcial3": "--", "parcial4": "--", "examen": "0,0", "final": "0,0", "imagen": ""},
+    {"nombre": "BIOMATERIALES", "grupo": "Z", "docente": "PIZA PAZ CLAUDIA", "parcial1": "0,0", "parcial2": "0,0", "parcial3": "--", "parcial4": "--", "examen": "0,0", "final": "0,0", "imagen": ""},
+    {"nombre": "CIRCUITOS", "grupo": "B1", "docente": "APAZA BUTRON DIEGO", "parcial1": "69,0", "parcial2": "0,0", "parcial3": "--", "parcial4": "--", "examen": "0,0", "final": "0,0", "imagen": ""},
+    {"nombre": "ELECTIVA I", "grupo": "A", "docente": "OLIVER ZAPATA ANDRES", "parcial1": "0,0", "parcial2": "0,0", "parcial3": "--", "parcial4": "--", "examen": "0,0", "final": "0,0", "imagen": ""},
+    {"nombre": "FISIOLOGÍA HUMANA I", "grupo": "B2", "docente": "CHOQUE ARUNI WINDSOR", "parcial1": "69,0", "parcial2": "0,0", "parcial3": "--", "parcial4": "--", "examen": "0,0", "final": "0,0", "imagen": ""},
+    {"nombre": "PROGRAMACIÓN II", "grupo": "H", "docente": "RAMOS ORELLANA EVELIN", "parcial1": "91,0", "parcial2": "0,0", "parcial3": "--", "parcial4": "--", "examen": "0,0", "final": "0,0", "imagen": ""}
+  ],
+  "gestiones": ["Gestión 2/2026", "Gestión 1/2026", "Gestión 2/2025"],
+  "notasAnteriores": {
+    "Gestión 1/2026": [],
+    "Gestión 2/2025": []
+  },
+  "documentos": [
+    {"nombre": "CARNET DE IDENTIDAD FOTOCOPIA", "cantidad": "2", "recibido": "01/08/2025", "vence": "14/07/2031", "tipo": "COMPLEMENTARIO", "pendiente": false},
+    {"nombre": "CERTIFICADO DE NACIMIENTO ORIGINAL COMPUTARIZADO", "cantidad": "2", "recibido": "01/08/2025", "vence": "-", "tipo": "OBLIGATORIO", "pendiente": false},
+    {"nombre": "TÍTULO DE BACHILLER LEGALIZADO", "cantidad": "2", "recibido": "01/08/2025", "vence": "-", "tipo": "COMPLEMENTARIO", "pendiente": false}
+  ],
+  "horarios": [
+    {"dia": "Lunes", "inicio": "10:10", "fin": "11:00", "materia": "", "aula": "", "grupo": "", "docente": ""},
+    {"dia": "Lunes", "inicio": "11:10", "fin": "12:00", "materia": "", "aula": "", "grupo": "", "docente": ""},
+    {"dia": "Lunes", "inicio": "12:00", "fin": "12:50", "materia": "BIOMATERIALES", "aula": "A1503", "grupo": "Z", "docente": "PIZA PAZ"},
+    {"dia": "Lunes", "inicio": "13:00", "fin": "13:50", "materia": "BIOMATERIALES", "aula": "A1503", "grupo": "Z", "docente": "PIZA PAZ"},
+    {"dia": "Lunes", "inicio": "13:50", "fin": "14:40", "materia": "BIOMATERIALES", "aula": "A1503", "grupo": "Z", "docente": "PIZA PAZ"},
+    {"dia": "Lunes", "inicio": "14:50", "fin": "15:40", "materia": "BIOMATERIALES", "aula": "A1406", "grupo": "Z", "docente": "PIZA PAZ"},
+    {"dia": "Lunes", "inicio": "15:40", "fin": "16:30", "materia": "", "aula": "", "grupo": "", "docente": ""}
+  ],
+  "pagos": [
+    {"nombre": "Matricula", "monto": "0,00", "aCuenta": "0,00", "vencimiento": "--", "pagada": true},
+    {"nombre": "Aportes", "monto": "0,00", "aCuenta": "0,00", "vencimiento": "--", "pagada": true},
+    {"nombre": "1° cuota", "monto": "1.457,00", "aCuenta": "1.457,00", "vencimiento": "18/09/2026", "pagada": true},
+    {"nombre": "2° cuota", "monto": "1.457,00", "aCuenta": "1.457,00", "vencimiento": "19/10/2026", "pagada": true},
+    {"nombre": "3° cuota", "monto": "1.457,00", "aCuenta": "500,00", "vencimiento": "18/11/2026", "pagada": false},
+    {"nombre": "4° cuota", "monto": "1.460,28", "aCuenta": "0,00", "vencimiento": "18/12/2026", "pagada": false}
+  ],
+  "economico": {
+    "montoPagar": "2.417,28",
+    "aviso": "El estudiante no puede crear un plan de pagos personalizado debido a que no hay suficiente tiempo para reprogramar las cuotas. Debe contactarse con el departamento de cartera.",
+    "gestion": "2/2026", "costoCredito": "", "costoMatricula": ""
+  },
+  "contactos": [
+    {"ciudad": "Cochabamba", "nombre": "Sede Central - Cochabamba", "direccion": "Calle Guillermina Martínez s/n (Tiquipaya)", "correo": "univalle.cochabamba@univalle.edu", "telefono": "+59144318800"},
+    {"ciudad": "Cochabamba", "nombre": "Edif. Polifuncional Ayacucho", "direccion": "Av. Ayacucho 256", "correo": "", "telefono": "+59144252921"},
+    {"ciudad": "Cochabamba", "nombre": "Hospital Univalle", "direccion": "Circuito Bolivia, lado Campo Ferial, Zona Laguna Alalay", "correo": "informacion@hospital.univalle.edu", "telefono": "+59144218421"},
+    {"ciudad": "Cochabamba", "nombre": "Chorrillos", "direccion": "J. Morales entre Pantaleón Dalence y Potosí N°1802", "correo": "informacion@chorrillos.univalle.edu", "telefono": "+59144115012"},
+    {"ciudad": "Cochabamba", "nombre": "Clínica Odontológica", "direccion": "Edif. Polifuncional UNIVALLE, Av. Ayacucho 256", "correo": "univalle.clinica@univalle.edu", "telefono": "+59144235390"},
+    {"ciudad": "Cochabamba", "nombre": "Univalle Televisión Canal 39", "direccion": "Edif. Polifuncional UNIVALLE, Av. Ayacucho 256", "correo": "informacion@canal.univalle.edu", "telefono": "+59144121965"},
+    {"ciudad": "Cochabamba", "nombre": "Torre América", "direccion": "Av. América No. 165", "correo": "", "telefono": ""},
+    {"ciudad": "La Paz", "nombre": "Sub-Sede Académica - La Paz", "direccion": "Av. Argentina N° 2083 esq. Nicaragua", "correo": "univalle.lapaz@univalle.edu", "telefono": "+59122246725"},
+    {"ciudad": "Sucre", "nombre": "Sub-Sede Académica - Sucre", "direccion": "Pje. Guillermina de Ruiz N°1 Zona Bajo Delicias", "correo": "univalle.sucre@univalle.edu", "telefono": "+59146441664"},
+    {"ciudad": "Trinidad", "nombre": "Sub-Sede Académica - Trinidad", "direccion": "Av. Reyes s/n", "correo": "univalle.trinidad@univalle.edu", "telefono": "+59134621238"},
+    {"ciudad": "Santa Cruz", "nombre": "Sub-Sede Académica - Santa Cruz", "direccion": "Av. Banzer-Séptimo anillo y Av. Juan Pablo II", "correo": "info@univalle.edu", "telefono": "3000001"}
+  ],
+  "departamentos": ["Bienestar Estudiantil", "Departamento Económico", "Jefatura de Carrera", "Secretaría de Carrera"],
+  "consultas": [],
+  "categoriasSugerencias": ["ACADEMICO", "ADMINISTRATIVO FINANCIERO", "BIENESTAR, CULTURA Y DEPORTE"],
+  "sugerencias": [],
+  "tiposTramites": [
+    {"nombre": "CERTIFICADO DE CALIFICACIONES", "dias": "6", "factura": true, "costo": "50 Bs.", "requisitos": ["MEMORIA Y FOTOCOPIA", "FORMULARIO DE SOLVENCIA", "FOTOCOPIA DE CEDULA IDENTIDAD O PASAPORTE", "PAGO POR CERTIFICADOS DE CALIFICACION", "PAGO POR PROGRAMAS ANALITICOS", "UNA HOJA DE TRAMITE BS 20", "UNA CARPETA ACADEMICA BS. 10", "ADJUNTAR FOTOCOPIA DE FACTURA"]},
+    {"nombre": "CERTIFICADO DE CALIFICACIONES Y PROGRAMAS ANALÍTICOS", "dias": "20", "factura": true, "costo": "", "requisitos": []},
+    {"nombre": "EXTENSION DE DIPLOMA ACADÉMICO DE MAESTRÍA", "dias": "20", "factura": true, "costo": "", "requisitos": []}
+  ],
+  "misTramites": [],
+  "libros": [],
+  "descuentos": [],
+  "bancos": [],
+  "cajas": [],
+  "correo": {"claveLocal": "Ejemplo123", "enlace": "https://www.outlook.com/univalle.edu", "nota": "NOTA: Esta contraseña es válida hasta que ingrese por primera vez a su correo electrónico, donde se le solicitará que cambie su contraseña de manera obligatoria. Una vez cambiada, ésta dejará de tener validez."},
+  "proyectos": {"saludo": "¡Hola Luz!", "mensaje": "Observamos que aún no te has unido a nuestras actividades bajo el proyecto 'UProyectos' en la universidad.\n\nTe animamos a unirte a UProyectos y ser parte de esta experiencia enriquecedora. No solo tendrás la oportunidad de contribuir positivamente a la comunidad universitaria, sino que también conocerás a otros estudiantes apasionados y comprometidos como tú.", "motivo": "", "registrado": false},
+  "ayuda": [
+    {"titulo": "En el SIU puedes...", "textos": ["1.- Puedes contactarte con la dirección de carrera en la opción de Consultas.", "2.- Puedes ver tus notas."]},
+    {"titulo": "En tu aplicación Movil puedes...", "textos": ["1.- Puedes seguir tus trámites.", "2.- Puedes ver el clima."]},
+    {"titulo": "En tu Campus tienes...", "textos": ["1.- Biblioteca con más de 20 000 libros", "2.- Comedor para mas de 300 personas", "3.- Plaza de comidas"]}
+  ],
+  "imagenes": {"sello": "", "marcaAgua": ""}
+}
